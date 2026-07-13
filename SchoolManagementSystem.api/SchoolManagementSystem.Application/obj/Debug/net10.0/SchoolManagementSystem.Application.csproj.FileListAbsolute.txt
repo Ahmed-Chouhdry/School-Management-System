@@ -1,0 +1,15 @@
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.csproj.AssemblyReference.cache
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.AssemblyInfoInputs.cache
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.AssemblyInfo.cs
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.csproj.CoreCompileInputs.cache
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\bin\Debug\net10.0\SchoolManagementSystem.Application.deps.json
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\bin\Debug\net10.0\SchoolManagementSystem.Application.dll
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\bin\Debug\net10.0\SchoolManagementSystem.Application.pdb
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\bin\Debug\net10.0\SchoolManagementSystem.Domain.dll
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\bin\Debug\net10.0\SchoolManagementSystem.Domain.pdb
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolMa.D65F040C.Up2Date
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.dll
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\obj\Debug\net10.0\refint\SchoolManagementSystem.Application.dll
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\obj\Debug\net10.0\SchoolManagementSystem.Application.pdb
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Application\obj\Debug\net10.0\ref\SchoolManagementSystem.Application.dll

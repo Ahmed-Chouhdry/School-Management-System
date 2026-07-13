@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wallet-admin-app\\SchoolManagementSystem.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BC94AC7-C09D-4921-9174-04E64B4DEA94}|SchoolManagementSystem.WebApi\\SchoolManagementSystem.WebApi.csproj|d:\\wallet-admin-app\\schoolmanagementsystem.webapi\\schoolmanagementsystem.webapi\\schoolmanagementsystem.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BC94AC7-C09D-4921-9174-04E64B4DEA94}|SchoolManagementSystem.WebApi\\SchoolManagementSystem.WebApi.csproj|solutionrelative:schoolmanagementsystem.webapi\\schoolmanagementsystem.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD865201-D57D-489F-9134-61438FB39AFB}|SchoolManagementSystem.Infrastructure\\SchoolManagementSystem.Infrastructure.csproj|d:\\wallet-admin-app\\schoolmanagementsystem.webapi\\schoolmanagementsystem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD865201-D57D-489F-9134-61438FB39AFB}|SchoolManagementSystem.Infrastructure\\SchoolManagementSystem.Infrastructure.csproj|solutionrelative:schoolmanagementsystem.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343E0ADB-72E4-400A-BA4B-97A26761BD73}|SchoolManagementSystem.Application\\SchoolManagementSystem.Application.csproj|d:\\wallet-admin-app\\schoolmanagementsystem.webapi\\schoolmanagementsystem.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343E0ADB-72E4-400A-BA4B-97A26761BD73}|SchoolManagementSystem.Application\\SchoolManagementSystem.Application.csproj|solutionrelative:schoolmanagementsystem.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA6357B-B867-41F4-BA3D-46B69F7160E5}|SchoolManagementSystem.Domain\\SchoolManagementSystem.Domain.csproj|d:\\wallet-admin-app\\schoolmanagementsystem.webapi\\schoolmanagementsystem.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA6357B-B867-41F4-BA3D-46B69F7160E5}|SchoolManagementSystem.Domain\\SchoolManagementSystem.Domain.csproj|solutionrelative:schoolmanagementsystem.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\wallet-admin-app\\SchoolManagementSystem.WebApi\\SchoolManagementSystem.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\wallet-admin-app\\SchoolManagementSystem.WebApi\\SchoolManagementSystem.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "SchoolManagementSystem.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T18:59:16.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\wallet-admin-app\\SchoolManagementSystem.WebApi\\SchoolManagementSystem.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem.Application\\Class1.cs",
+              "ToolTip": "D:\\wallet-admin-app\\SchoolManagementSystem.WebApi\\SchoolManagementSystem.Application\\Class1.cs",
+              "RelativeToolTip": "SchoolManagementSystem.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T18:56:56.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\wallet-admin-app\\SchoolManagementSystem.WebApi\\SchoolManagementSystem.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem.Domain\\Class1.cs",
+              "ToolTip": "D:\\wallet-admin-app\\SchoolManagementSystem.WebApi\\SchoolManagementSystem.Domain\\Class1.cs",
+              "RelativeToolTip": "SchoolManagementSystem.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T18:56:09.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolManagementSystem.WebApi",
+              "DocumentMoniker": "D:\\wallet-admin-app\\SchoolManagementSystem.WebApi\\SchoolManagementSystem.WebApi\\SchoolManagementSystem.WebApi.csproj",
+              "RelativeDocumentMoniker": "SchoolManagementSystem.WebApi\\SchoolManagementSystem.WebApi.csproj",
+              "ToolTip": "D:\\wallet-admin-app\\SchoolManagementSystem.WebApi\\SchoolManagementSystem.WebApi\\SchoolManagementSystem.WebApi.csproj",
+              "RelativeToolTip": "SchoolManagementSystem.WebApi\\SchoolManagementSystem.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-13T18:50:34.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

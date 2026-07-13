@@ -1,0 +1,11 @@
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Domain\obj\Debug\net10.0\SchoolManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Domain\obj\Debug\net10.0\SchoolManagementSystem.Domain.AssemblyInfoInputs.cache
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Domain\obj\Debug\net10.0\SchoolManagementSystem.Domain.AssemblyInfo.cs
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Domain\obj\Debug\net10.0\SchoolManagementSystem.Domain.csproj.CoreCompileInputs.cache
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Domain\bin\Debug\net10.0\SchoolManagementSystem.Domain.deps.json
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Domain\bin\Debug\net10.0\SchoolManagementSystem.Domain.dll
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Domain\bin\Debug\net10.0\SchoolManagementSystem.Domain.pdb
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Domain\obj\Debug\net10.0\SchoolManagementSystem.Domain.dll
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Domain\obj\Debug\net10.0\refint\SchoolManagementSystem.Domain.dll
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Domain\obj\Debug\net10.0\SchoolManagementSystem.Domain.pdb
+D:\wallet-admin-app\SchoolManagementSystem.api\SchoolManagementSystem.Domain\obj\Debug\net10.0\ref\SchoolManagementSystem.Domain.dll
