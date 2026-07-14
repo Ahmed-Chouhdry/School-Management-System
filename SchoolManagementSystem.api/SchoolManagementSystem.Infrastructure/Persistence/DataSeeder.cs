@@ -1,9 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using System.Diagnostics.CodeAnalysis;
+using Microsoft.EntityFrameworkCore;
 using SchoolManagementSystem.Domain.Entities;
 using SchoolManagementSystem.Domain.Enums;
 
 namespace SchoolManagementSystem.Infrastructure.Persistence;
 
+[ExcludeFromCodeCoverage]
 public static class DataSeeder
 {
     public static async Task SeedAsync(AppDbContext context)

@@ -4,6 +4,7 @@ using SchoolManagementSystem.Application;
 using SchoolManagementSystem.Infrastructure;
 using SchoolManagementSystem.Infrastructure.Persistence;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 

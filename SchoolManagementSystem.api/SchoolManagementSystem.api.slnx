@@ -1,4 +1,10 @@
 <Solution>
+  <Folder Name="/tests/">
+    <Project Path="tests/SchoolManagementSystem.Application.Tests/SchoolManagementSystem.Application.Tests.csproj" />
+    <Project Path="tests/SchoolManagementSystem.Domain.Tests/SchoolManagementSystem.Domain.Tests.csproj" />
+    <Project Path="tests/SchoolManagementSystem.Infrastructure.Tests/SchoolManagementSystem.Infrastructure.Tests.csproj" />
+    <Project Path="tests/SchoolManagementSystem.WebApi.Tests/SchoolManagementSystem.WebApi.Tests.csproj" />
+  </Folder>
   <Project Path="SchoolManagementSystem.Application/SchoolManagementSystem.Application.csproj" />
   <Project Path="SchoolManagementSystem.Domain/SchoolManagementSystem.Domain.csproj" />
   <Project Path="SchoolManagementSystem.Infrastructure/SchoolManagementSystem.Infrastructure.csproj" />

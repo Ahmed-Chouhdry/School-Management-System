@@ -99,32 +99,11 @@ dotnet tool install --global dotnet-ef
 
 Add a connection string to **`SchoolManagementSystem.WebApi/appsettings.json`** (or `appsettings.Development.json` for local-only settings). Pick whichever SQL Server target you have available:
 
-**Option A — SQL Server LocalDB** (ships with Visual Studio, zero extra setup)
+**SQL Server LocalDB** (ships with Visual Studio, zero extra setup)
 ```json
 {
   "ConnectionStrings": {
     "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=SchoolPortalDb;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True"
-  }
-}
-```
-
-**Option B — SQL Server / SQL Server Express installed locally**
-```json
-{
-  "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=SchoolPortalDb;Trusted_Connection=True;TrustServerCertificate=True"
-  }
-}
-```
-
-**Option C — SQL Server in Docker**
-```bash
-docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=YourStrong@Passw0rd" -p 1433:1433 --name sql-school -d mcr.microsoft.com/mssql/server:2022-latest
-```
-```json
-{
-  "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost,1433;Database=SchoolPortalDb;User Id=sa;Password=YourStrong@Passw0rd;TrustServerCertificate=True"
   }
 }
 ```
