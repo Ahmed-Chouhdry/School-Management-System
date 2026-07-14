@@ -10,7 +10,7 @@ interface UserState {
   activeModalUserId: string | null;
   status: 'idle' | 'loading' | 'succeeded' | 'failed';
   error: string | null;
-  walletError: string | null; // scoped to the wallet modal specifically
+  walletError: string | null;
 }
 
 const initialState: UserState = {

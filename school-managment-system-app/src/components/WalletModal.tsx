@@ -30,9 +30,6 @@ export const WalletModal: React.FC<WalletModalProps> = ({ user, onClose }) => {
       return;
     }
 
-    // Client-side hint only — the backend is the real source of truth
-    // for the negative-balance rule, so we still send the request either way
-    // and surface the server's rejection if it disagrees.
     if (action === 'deduct' && parsedAmount > user.walletBalance) {
       setLocalError(`This will exceed the current balance of $${user.walletBalance.toFixed(2)}.`);
       return;
@@ -50,7 +47,6 @@ export const WalletModal: React.FC<WalletModalProps> = ({ user, onClose }) => {
       setFeedback(`Successfully ${action === 'add' ? 'added' : 'deducted'} $${parsedAmount.toFixed(2)}!`);
       setAmount('');
     }
-    // on rejection, walletError from Redux state will render below
   };
 
   return (

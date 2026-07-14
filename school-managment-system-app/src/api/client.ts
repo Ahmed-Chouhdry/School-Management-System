@@ -7,7 +7,6 @@ async function handleResponse<T>(res: Response): Promise<T> {
       const body = await res.json();
       if (body?.error) message = body.error;
     } catch {
-      // response wasn't JSON, keep default message
     }
     throw new Error(message);
   }
